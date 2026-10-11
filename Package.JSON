@@ -1,0 +1,8 @@
+{
+  "name": "belajar-railway",
+  "version": "1.0.0",
+  "description": "Project pertama belajar Railway",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
